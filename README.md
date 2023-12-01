@@ -1,7 +1,7 @@
 # Binary Number Modification Script
 
 This Python script converts a positive decimal number to binary, modifying it's digits, and performing a binary addition. The script is designed to take a positive decimal number and a specified number of bits from the user. 
-This scirpt was wrote for the 2's complement method.
+This scirpt uses the 2's complement method.
 # How to Use
 Run the script.
 When prompted, enter a positive decimal number.
